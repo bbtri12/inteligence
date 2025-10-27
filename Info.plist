@@ -1,0 +1,51 @@
+Info.plist
+xml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" 
+    "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+    <!-- 🔹 Thông tin cơ bản / Basic Info -->
+    <key>CFBundleName</key>
+    <string>InteligenceDemo</string>
+    <key>CFBundleDisplayName</key>
+    <string>InteliGen AI</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.yourname.inteligence</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+
+    <!-- 🔹 Cấu hình giao diện / UI Configuration -->
+    <key>UILaunchStoryboardName</key>
+    <string>LaunchScreen</string>
+    <key>UIMainStoryboardFile</key>
+    <string>Main</string>
+    <key>UIUserInterfaceStyle</key>
+    <string>Automatic</string>
+
+    <!-- 🔹 Quyền truy cập mạng / Network permissions -->
+    <key>NSAppTransportSecurity</key>
+    <dict>
+        <key>NSAllowsArbitraryLoads</key>
+        <true/>
+    </dict>
+
+    <!-- 🔹 Miêu tả quyền (Privacy descriptions) -->
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Cho phép ứng dụng lưu và hiển thị ảnh AI bạn tạo / Allow saving and showing generated AI images</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Dùng camera để chụp và nhận diện ảnh / Use camera for photo input and detection</string>
+
+    <!-- 🔹 Siri Shortcut / AppIntent -->
+    <key>IntentsSupported</key>
+    <array>
+        <string>CreateSummaryIntent</string>
+    </array>
+
+</dict>
+</plist>
