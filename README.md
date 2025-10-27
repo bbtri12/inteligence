@@ -76,3 +76,19 @@ Dự án phát triển cho iOS 18.7.1 trở lên.
 
 This project is licensed under the MIT License.  
 Bạn có thể sử dụng, chỉnh sửa và phát hành lại tự do.
+🎯 Hình minh họa / Preview
+(Tùy chọn — bạn có thể thêm ảnh chụp màn hình giao diện sau này tại đây)
+Ví dụ:
+![Preview](https://github.com/bbtri12/inteligence/assets/preview-demo.png)
+💡 Mẹo: Sau khi commit, repo sẽ hiển thị README chuyên nghiệp ngay trang đầu GitHub.
+---
+
+Sau khi bạn **dán & commit xong**, repo sẽ hiển thị:
+- Giao diện chuyên nghiệp có emoji, bảng, khối code  
+- Hướng dẫn clone và chạy rõ ràng  
+- Phù hợp chuẩn “App AI Demo” như các repo Apple hay OpenAI.
+
+---
+
+Bạn có muốn mình **tạo luôn file `LICENSE (MIT)` chuẩn song ngữ Anh–Việt** để repo bạn hiển thị “MIT License” ở đầu trang không?  
+→ GitHub sẽ tự gắn huy hiệu “MIT” (biểu tượng xanh rất đẹp).
