@@ -1,0 +1,143 @@
+🚀 1. Cấu trúc thư mục hoàn chỉnh
+inteligence/
+│
+├── index.html              # Trang chính (giao diện Apple Intelligence)
+├── about.html              # Trang giới thiệu
+├── contact.html            # Liên hệ
+├── assets/
+│   ├── logo.png            # Logo Apple Intelligence
+│   ├── style.css           # Giao diện Apple-style
+│   └── script.js           # Hiệu ứng JavaScript
+├── LICENSE                 # Giấy phép MIT
+└── README.md               # Giới thiệu dự án
+📘 2. Lệnh Git cần dùng
+bash
+# Sao chép repo (nếu chưa có)
+git clone https://github.com/<bbtri12>/inteligence.git
+cd inteligence
+
+# Thêm toàn bộ file
+git add .
+
+# Ghi chú commit
+git commit -m "Hoàn thiện phiên bản đầu tiên - Apple Intelligence"
+
+# Đẩy lên GitHub
+git push origin main
+🧠 3. File index.html (giao diện chính)
+html
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Apple Intelligence</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Logo" class="logo">
+    <h1>Apple Intelligence</h1>
+  </header>
+
+  <main>
+    <section id="intro">
+      <h2>Chào mừng bạn đến với dự án Apple Intelligence</h2>
+      <p>Phiên bản cá nhân hóa cho lập trình và AI hỗ trợ thông minh.</p>
+    </section>
+
+    <section id="features">
+      <h2>Tính năng</h2>
+      <ul>
+        <li>🚀 Tự động hóa và hỗ trợ AI</li>
+        <li>⚙️ Tích hợp GitHub + OpenAI</li>
+        <li>📱 Tối ưu cho iPhone và Safari</li>
+        <li>💡 Giao diện trực quan, nhanh, gọn</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Apple Intelligence — by Đức Trí Nguyễn</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+🎨 4. File style.css (thiết kế hiển thị)
+css
+body {
+  margin: 0;
+  font-family: "SF Pro Display", Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #222;
+}
+
+header {
+  background-color: #000;
+  color: #fff;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.logo {
+  width: 80px;
+  display: block;
+  margin: 0 auto 10px;
+}
+
+main {
+  padding: 2rem;
+}
+
+section {
+  margin-bottom: 2rem;
+  background: white;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #000;
+  color: white;
+}
+⚙️ 5. File script.js (AI hoạt động mẫu)
+js
+document.addEventListener("DOMContentLoaded", () => {
+  console.log("🚀 Apple Intelligence đang hoạt động!");
+
+  const greet = document.querySelector("#intro p");
+  const hour = new Date().getHours();
+  if (hour < 12) greet.textContent = "Chúc bạn buổi sáng tốt lành 🌤️";
+  else if (hour < 18) greet.textContent = "Chúc bạn buổi chiều năng động ☀️";
+  else greet.textContent = "Chúc bạn buổi tối vui vẻ 🌙";
+});
+🧾 6. File README.md
+markdown
+# 🍎 Apple Intelligence
+Dự án mã nguồn mở kết hợp AI và lập trình thông minh — phát triển bởi **Đức Trí Nguyễn**.
+
+## 📦 Cài đặt
+```bash
+git clone https://github.com/<tên-người-dùng>/inteligence.git
+🚀 Chạy dự án
+
+Mở file index.html trực tiếp trong trình duyệt hoặc chạy qua Live Server.
+
+📄 Giấy phép
+
+MIT License — tự do chỉnh sửa, chia sẻ, phát triển thêm.
+---
+
+## ⚖️ **7. File `LICENSE` (MIT License chuẩn)**
+
+```text
+MIT License
+
+Copyright (c) 2025 Đức Trí
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+...
