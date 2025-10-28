@@ -1,23 +1,42 @@
-LICENSE
+📄 LICENSE (MIT – English & Vietnamese)
 text
-MIT License
+MIT License  
+Giấy phép MIT (Song ngữ Anh – Việt)
 
 Copyright (c) 2025 Đức Trí Nguyễn
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this software and associated documentation files (the “Software”), to deal  
+in the Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Software, and to permit persons to whom the Software is  
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
+Quyền được cấp miễn phí cho bất kỳ cá nhân nào nhận được bản sao của phần mềm này  
+và các tệp tài liệu liên quan (“Phần mềm”), được phép sử dụng phần mềm này  
+không hạn chế, bao gồm nhưng không giới hạn các quyền sử dụng, sao chép, chỉnh sửa,  
+gộp, công bố, phân phối, cấp phép lại và/hoặc bán các bản sao của phần mềm,  
+và cho phép những người được cung cấp phần mềm làm điều tương tự,  
+với điều kiện sau:
+
+The above copyright notice and this permission notice shall be included in all  
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+Thông báo bản quyền và thông báo cấp phép trên phải được bao gồm  
+trong tất cả các bản sao hoặc phần đáng kể của phần mềm.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,  
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
 SOFTWARE.
+
+PHẦN MỀM NÀY ĐƯỢC CUNG CẤP “NGUYÊN TRẠNG”, KHÔNG CÓ BẤT KỲ BẢO HÀNH NÀO,  
+DÙ RÕ RÀNG HAY NGỤ Ý, BAO GỒM NHƯNG KHÔNG GIỚI HẠN CÁC BẢO HÀNH VỀ KHẢ NĂNG MUA BÁN,  
+PHÙ HỢP VỚI MỤC ĐÍCH SỬ DỤNG CỤ THỂ HOẶC KHÔNG VI PHẠM.  
+TRONG MỌI TRƯỜNG HỢP, TÁC GIẢ HOẶC CHỦ SỞ HỮU BẢN QUYỀN  
+SẼ KHÔNG CHỊU TRÁCH NHIỆM VỀ BẤT KỲ KHIẾU NẠI, THIỆT HẠI HOẶC TRÁCH NHIỆM NÀO,  
+DÙ TRONG HỢP ĐỒNG, HÀNH VI DÂN SỰ HAY CÁCH KHÁC,  
+PHÁT SINH TỪ HOẶC LIÊN QUAN ĐẾN PHẦN MỀM HOẶC VIỆC SỬ DỤNG PHẦN MỀM.
